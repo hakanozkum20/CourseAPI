@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{7499A04F-D5BF-4AEF-835F-46A691CC46EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C63196CC-E658-414D-BCC4-D542853BC86B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{17535DE5-B940-44FA-8248-F4466B20189A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAPI.Domain", "Core\CourseAPI.Domain\CourseAPI.Domain.csproj", "{33286CCF-AC9E-4128-B68A-A0563CC33319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAPI.Application", "Core\CourseAPI.Application\CourseAPI.Application.csproj", "{8D9D2C60-FE8C-49E1-90A1-E7888E7045A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAPI.Infrastructure", "Infrastructure\CourseAPI.Infrastructure\CourseAPI.Infrastructure.csproj", "{200C7777-C72B-43DD-98DC-77A73F49C729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAPI.Persistence", "Infrastructure\CourseAPI.Persistence\CourseAPI.Persistence.csproj", "{BF3BA13B-3D62-40B7-9D0D-0860773E2A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAPI.Api", "Presentation\CourseAPI.Api\CourseAPI.Api.csproj", "{A7BF592C-0C92-435E-AF71-7740C8A39444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33286CCF-AC9E-4128-B68A-A0563CC33319} = {7499A04F-D5BF-4AEF-835F-46A691CC46EA}
+		{8D9D2C60-FE8C-49E1-90A1-E7888E7045A5} = {7499A04F-D5BF-4AEF-835F-46A691CC46EA}
+		{200C7777-C72B-43DD-98DC-77A73F49C729} = {C63196CC-E658-414D-BCC4-D542853BC86B}
+		{BF3BA13B-3D62-40B7-9D0D-0860773E2A56} = {C63196CC-E658-414D-BCC4-D542853BC86B}
+		{A7BF592C-0C92-435E-AF71-7740C8A39444} = {17535DE5-B940-44FA-8248-F4466B20189A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33286CCF-AC9E-4128-B68A-A0563CC33319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33286CCF-AC9E-4128-B68A-A0563CC33319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33286CCF-AC9E-4128-B68A-A0563CC33319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33286CCF-AC9E-4128-B68A-A0563CC33319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9D2C60-FE8C-49E1-90A1-E7888E7045A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9D2C60-FE8C-49E1-90A1-E7888E7045A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9D2C60-FE8C-49E1-90A1-E7888E7045A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9D2C60-FE8C-49E1-90A1-E7888E7045A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200C7777-C72B-43DD-98DC-77A73F49C729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200C7777-C72B-43DD-98DC-77A73F49C729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200C7777-C72B-43DD-98DC-77A73F49C729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200C7777-C72B-43DD-98DC-77A73F49C729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3BA13B-3D62-40B7-9D0D-0860773E2A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3BA13B-3D62-40B7-9D0D-0860773E2A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3BA13B-3D62-40B7-9D0D-0860773E2A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3BA13B-3D62-40B7-9D0D-0860773E2A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BF592C-0C92-435E-AF71-7740C8A39444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BF592C-0C92-435E-AF71-7740C8A39444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BF592C-0C92-435E-AF71-7740C8A39444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BF592C-0C92-435E-AF71-7740C8A39444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVw1/TX27hpSFQOQKFZS7WzQcFI3y/NcuoSh82oGD5Q2f3jlQb0xbluZfLe8rNw9cQJpkdIV7ba3gvZzR/tmGA==",
+  "success": true,
+  "projectFilePath": "/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Core/CourseAPI.Application/CourseAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/esta/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

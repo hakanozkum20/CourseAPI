@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Presentation/CourseAPI.Api/obj/.store/.stage/w01z2mbi.uca</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Presentation/CourseAPI.Api/obj/.store/.stage/w01z2mbi.uca</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Presentation/CourseAPI.Api/obj/.store/.stage/w01z2mbi.uca/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Presentation/CourseAPI.Api/obj/.store/.stage/w01z2mbi.uca/dotnet-aspnet-codegenerator/7.0.11</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>

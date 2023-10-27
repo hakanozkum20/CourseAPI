@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CourseAPI.Application/1.0.0": {
+        "dependencies": {
+          "CourseAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CourseAPI.Application.dll": {}
+        }
+      },
+      "CourseAPI.Domain/1.0.0": {
+        "runtime": {
+          "CourseAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
