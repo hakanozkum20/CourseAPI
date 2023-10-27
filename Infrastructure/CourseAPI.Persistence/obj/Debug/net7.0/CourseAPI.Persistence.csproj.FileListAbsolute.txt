@@ -3,10 +3,8 @@
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/CourseAPI.Persistence.pdb
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/CourseAPI.Application.dll
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/CourseAPI.Domain.dll
-/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/CourseAPI.Application.pdb
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/CourseAPI.Domain.pdb
-/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/CourseAPI.Persistence.csproj.AssemblyReference.cache
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/CourseAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/CourseAPI.Persistence.AssemblyInfoInputs.cache
@@ -17,3 +15,5 @@
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/refint/CourseAPI.Persistence.dll
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/CourseAPI.Persistence.pdb
 /home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/ref/CourseAPI.Persistence.dll
+/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/bin/Debug/net7.0/CourseAPI.Persistence.runtimeconfig.json
+/home/esta/Projects/EĞİTİM ANA DIZIN/CourseAPI/CourseAPI/Infrastructure/CourseAPI.Persistence/obj/Debug/net7.0/CourseAPI.Persistence.genruntimeconfig.cache
